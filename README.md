@@ -1,1 +1,1 @@
-A "clone" of ActiveRecord developed using TDD
+A clone of ActiveRecord developed using TDD
